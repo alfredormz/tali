@@ -1,5 +1,7 @@
-# Io tiny ORM for SQLite3
+# Tali
 
-## This is how I'm learning Io.  By writing code.
+##Io tiny ORM for SQLite3
+
+This is how I'm learning Io.
 
 
